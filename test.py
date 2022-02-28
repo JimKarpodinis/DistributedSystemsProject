@@ -1,0 +1,1 @@
+print('xristina + karpo = <3')
