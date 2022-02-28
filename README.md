@@ -1,4 +1,0 @@
-# DistributedSystemsProject
-
-Hello guys!
-
