@@ -12,3 +12,23 @@
 - git add    # example: test1.py test2.py ...
 - git commit -m 	# + message in quotes
 - git push
+
+
+# Branches
+
+- git branch (+ "name") # create branch
+- git checkout (+"name") # get to branch
+
+Alternatively:
+
+- git checkout -b (+ "name") # Create & get to branch
+
+--> Then go to # Commit
+
+- git push --set-upstream origin (+ "name") # To create branch in global
+- git push origin (+ "name") # To upload in global after creation of branch
+
+# To get a certain branch
+
+- git pull origin # this command gets the main repository
+- git pull origin (+ "name") to get a specific branch (eg ChrisNick)
