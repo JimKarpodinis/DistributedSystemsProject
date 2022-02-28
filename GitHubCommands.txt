@@ -1,0 +1,14 @@
+# Some github commands
+
+
+# Pulling from github
+
+- git pull (origin)
+
+
+
+# Commit 
+- git status
+- git add    # example: test1.py test2.py ...
+- git commit -m 	# + message in quotes
+- git push
